@@ -11,7 +11,7 @@
 
 ## O que estou aprendendo agora
 - 🛡️ Fundamentos de Cibersegurança (Cisco NetAcad)
-- 🐍 Python do zero ao intermediário (Fundação Bradesco)
+- 🐍 Python e Lógica de Programação (Curso em Vídeo – Prof. Guanabara + Fundação Bradesco)
 - 🔍 Google Cybersecurity Professional Certificate (Coursera)
 - 📋 Segurança da Informação (ENAP – Governo Federal)
 
@@ -21,7 +21,7 @@
 | Introduction to Cybersecurity | Cisco NetAcad | 🔄 Em andamento |
 | Segurança da Informação para Todos | ENAP | 🔄 Em andamento |
 | Google Cybersecurity | Google / Coursera | 🔄 Em andamento |
-| Python | Fundação Bradesco | 🔄 Em andamento |
+| Python + Lógica | Curso em Vídeo (Guanabara) + Fundação Bradesco | 🔄 Em andamento |
 | Cybersecurity Essentials | Cisco NetAcad | ⏳ Em breve |
 | Junior Cybersecurity Analyst | Cisco NetAcad | ⏳ Em breve |
 
