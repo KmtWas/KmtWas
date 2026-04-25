@@ -9,12 +9,17 @@
 - 🏅 Certificações em andamento: Cisco Introduction to Cybersecurity | Google Cybersecurity
 - 🌎 Cariacica, Espírito Santo – Brasil
 
+
+## 🏅 Certificados
+-[Introduction to Cybersecurity – Cisco ✅](https://www.credly.com/badges/b9dcced3-f358-4f79-bf53-75b409a536f3/public_url)
+
 ## O que estou aprendendo agora
 - 🛡️ Fundamentos de Cibersegurança (Cisco NetAcad)
 - 🐍 Python e Lógica de Programação (Curso em Vídeo – Prof. Guanabara + Fundação Bradesco)
 - 🔍 Google Cybersecurity Professional Certificate (Coursera)
 - 📋 Segurança da Informação (ENAP – Governo Federal)
-
+- 🤖 Automação de Dados com IA – Python, ML e IA Generativa (Accenture + DIO)
+  
 ## Minha trilha de estudos
 | Curso | Instituição | Status |
 |-------|-------------|--------|
