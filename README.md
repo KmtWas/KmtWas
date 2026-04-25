@@ -18,12 +18,21 @@
 ## Minha trilha de estudos
 | Curso | Instituição | Status |
 |-------|-------------|--------|
-| Introduction to Cybersecurity | Cisco NetAcad | 🔄 Em andamento |
+| Introduction to Cybersecurity | Cisco NetAcad | ✅ Concluído |
 | Segurança da Informação para Todos | ENAP | 🔄 Em andamento |
 | Google Cybersecurity | Google / Coursera | 🔄 Em andamento |
-| Python + Lógica | Curso em Vídeo (Guanabara) + Fundação Bradesco | 🔄 Em andamento |
+| Python + Lógica | Guanabara + Fundação Bradesco | 🔄 Em andamento |
+| Accenture - Python para Análise e Automação de Dados | Accenture + DIO | 🔄 Em andamento |
 | Cybersecurity Essentials | Cisco NetAcad | ⏳ Em breve |
+| Segurança em TI | Fundação Bradesco | ⏳ Em breve |
+| AI For Everyone | Coursera / DeepLearning.AI | ⏳ Em breve |
+| Introduction to Generative AI | Google Cloud | ⏳ Em breve |
 | Junior Cybersecurity Analyst | Cisco NetAcad | ⏳ Em breve |
+| Cybersecurity Defense Analyst + Splunk | Cisco NetAcad | ⏳ Em breve |
+| AI Security Path | TryHackMe | ⏳ Em breve |
+| MLOps | Coursera / DeepLearning.AI | ⏳ Em breve |
+| Human in the Loop (HITL) | Scale AI / Coursera | ⏳ Em breve |
+| Ethical Hacker | Cisco NetAcad | ⏳ Em breve |
 
 ## Contato
 - 💼 LinkedIn: [Welison Alves](https://www.linkedin.com/in/welison-alves-180b77340/)
